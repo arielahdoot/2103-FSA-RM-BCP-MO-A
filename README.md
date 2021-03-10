@@ -95,6 +95,7 @@ Hello! This is where Ariel and Laura will put all the material for BCP. If any o
 
 [Lecture Slides](03-type-coercion-and-truthiness/03-Coercion-and-Truthiness.pdf)
 
+
 <!--
 **[Live Lecture](https://youtu.be/SCN73vKE5DY)**
 
