@@ -26,7 +26,7 @@ Hello! This is where Ariel and Laura will put all the material for BCP. If any o
 - [Code Wars - Loops](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&r%5B%5D=-7&tags=Loops) Practice more loops
 - [practice](https://www.codewars.com/users/MrZizoScream/authored)
 - Optional: Watch these after you've learned about Objects
-  - [Pass By Value, Pass By Reference](https://youtu.be/Tq2362cRD3Y)
+  - [Pass By Value, Pass By Reference](https://youtu.be/Casw_S_uOoE)
   - [Higher Order Functions I](https://youtu.be/FiEY_pb_cR0)
   - [Higher Order Functions II - Closure](https://youtu.be/pAtDHJs5bis)
 
