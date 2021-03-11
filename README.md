@@ -95,17 +95,13 @@ Hello! This is where Ariel and Laura will put all the material for BCP. If any o
 
 [Lecture Slides](03-type-coercion-and-truthiness/03-Coercion-and-Truthiness.pdf)
 
-
-<!--
-**[Live Lecture](https://youtu.be/SCN73vKE5DY)**
-
-**[Live Solutions](https://youtu.be/ry2uQPvueek)**
+**[Live Lecture](https://youtu.be/xpZ2YougdR4)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
 
-
+<!-- 
 ### Notes
 
 [Full Notes](03-coercion-and-truthiness)
