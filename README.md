@@ -101,7 +101,6 @@ Hello! This is where Ariel and Laura will put all the material for BCP. If any o
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
 
-<!-- 
 ### Notes
 
 [Full Notes](03-coercion-and-truthiness)
@@ -116,11 +115,21 @@ Hello! This is where Ariel and Laura will put all the material for BCP. If any o
 
 ## **04 Caesar Cypher**
 
-**[Live Lecture](https://youtu.be/x-QNu7aMUR0)**
+[Lecture Slides](04-reacto/4. BCP-REACTO.pdf)
+
+**[Live Lecture](https://youtu.be/tSrQhjOxDuM)**
+**[Live Review](https://youtu.be/wubQ1zoPOck)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
+
+### Notes
+
+* [Our Caesar Cypher](https://codepen.io/habst/pen/yLVGmxo?editors=0010)
+* [Our vowelCount](https://repl.it/@hpr/WoozyParallelComputer#index.js)
+
+<!--
 
 ## **05 Scope**
 
