@@ -115,7 +115,7 @@ Hello! This is where Ariel and Laura will put all the material for BCP. If any o
 
 ## **04 Caesar Cypher**
 
-[Lecture Slides](04-reacto/4. BCP-REACTO.pdf)
+[Lecture Slides](04-reacto/4.BCP-REACTO.pdf)
 
 **[Live Lecture](https://youtu.be/tSrQhjOxDuM)**
 **[Live Review](https://youtu.be/wubQ1zoPOck)**
