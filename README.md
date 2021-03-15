@@ -1,6 +1,6 @@
 # 2103-FSA-NY-BCP-MO
 
-Hello! This is where Ariel and Laura will put all the material for BCP. If any of the links don't work don't hesitate to slack us and let us know.
+Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. If any of the links don't work don't hesitate to slack us and let us know.
 
 [![Run on Repl.it](https://repl.it/badge/github/arielahdoot/2103-FSA-NY-BCP-MO)](https://repl.it/github/arielahdoot/2103-FSA-NY-BCP-MO)
 
@@ -8,9 +8,9 @@ Hello! This is where Ariel and Laura will put all the material for BCP. If any o
 
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
-<!-- 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
+3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 4. [Caesar Cypher](#04-caesar-cypher)
-5. [Scope](#05-scope)
+<!-- 5. [Scope](#05-scope)
 6. [Arrays I](#06-arrays-I)
 7. [Arrays II](#07-arrays-ii)
 8. [Sudoku Validator](#08-sudoku-validator)
@@ -101,6 +101,7 @@ Hello! This is where Ariel and Laura will put all the material for BCP. If any o
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
 
+<!--
 ### Notes
 
 [Full Notes](03-coercion-and-truthiness)
@@ -115,21 +116,11 @@ Hello! This is where Ariel and Laura will put all the material for BCP. If any o
 
 ## **04 Caesar Cypher**
 
-[Lecture Slides](04-reacto/4.BCP-REACTO.pdf)
-
-**[Live Lecture](https://youtu.be/tSrQhjOxDuM)**
-**[Live Review](https://youtu.be/wubQ1zoPOck)**
+**[Live Lecture](https://youtu.be/x-QNu7aMUR0)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
-
-### Notes
-
-* [Our Caesar Cypher](https://codepen.io/habst/pen/yLVGmxo?editors=0010)
-* [Our vowelCount](https://repl.it/@hpr/WoozyParallelComputer#index.js)
-
-<!--
 
 ## **05 Scope**
 
