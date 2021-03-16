@@ -102,7 +102,6 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
 
-<!--
 ### Notes
 
 [Full Notes](03-coercion-and-truthiness)
@@ -144,6 +143,7 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 6. [Hoisting](05-scope/F-hoisting.js)
 7. [Best Practices](05-scope/G-bestpract.js)
 
+<!--
 ## **06 Arrays I**
 
 **[Live Lecture](https://youtu.be/pR7G-OdOvag)**
