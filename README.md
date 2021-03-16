@@ -10,7 +10,8 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 2. [Loops And Debugging](#02-loops-and-debugging)
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 4. [Caesar Cypher](#04-caesar-cypher)
-<!-- 5. [Scope](#05-scope)
+5. [Scope](#05-scope)
+<!-- 
 6. [Arrays I](#06-arrays-I)
 7. [Arrays II](#07-arrays-ii)
 8. [Sudoku Validator](#08-sudoku-validator)
@@ -124,7 +125,7 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 
 ## **05 Scope**
 
-**[Live Lecture](https://youtu.be/KYuBlRTnG2A)**
+**[Live Lecture](https://youtu.be/I6miZcHa1ok)**
 
 **[Scope Workshop Problems 4 & 5 Review](https://youtu.be/zxzapd17ThM)**
 
@@ -135,6 +136,13 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 ### Notes
 
 [Full Notes](05-scope)
+1. [What is Scope?](05-scope/A-scope-is.js)
+2. [Global Scope](05-scope/B-globalscope.js)
+3. [Functional Scope](05-scope/C-func-scope.js)
+4. [Nested Functions & Functional Scope](05-scope/D-nestedfunc.js)
+5. [Block Scope](05-scope/E-blockscope.js)
+6. [Hoisting](05-scope/F-hoisting.js)
+7. [Best Practices](05-scope/G-bestpract.js)
 
 ## **06 Arrays I**
 
