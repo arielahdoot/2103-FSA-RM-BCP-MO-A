@@ -11,8 +11,8 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 4. [Caesar Cypher](#04-caesar-cypher)
 5. [Scope](#05-scope)
-<!-- 
 6. [Arrays I](#06-arrays-I)
+<!-- 
 7. [Arrays II](#07-arrays-ii)
 8. [Sudoku Validator](#08-sudoku-validator)
 9. [Objects](#09-objects)
@@ -143,10 +143,9 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 6. [Hoisting](05-scope/F-hoisting.js)
 7. [Best Practices](05-scope/G-bestpract.js)
 
-<!--
 ## **06 Arrays I**
 
-**[Live Lecture](https://youtu.be/pR7G-OdOvag)**
+**[Live Lecture](https://youtu.be/ud4gLNoNyls)**
 
 **[Live Solutions](https://youtu.be/tEVT4mS0-TQ)**
 
@@ -173,6 +172,7 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 13. [Array.includes()](06-arrays-I/M-array-includes.js)
 14. [Array.reverse()](06-arrays-I/N-array-reverse.js)
 
+<!--
 ## **07 Arrays II**
 
 **[Live Lecture](https://youtu.be/oGj5EZMWA8E)**
