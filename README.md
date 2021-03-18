@@ -178,7 +178,7 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 **[Lecture Slides](07-arrays-ii/07.Arrays-II.pdf)**
 
 **[Live Lecture](https://youtu.be/f66IDYWItFo)**
-<!-- **[Review](https://youtu.be/Pur1E67XKaU)** -->
+**[Review](https://youtu.be/vcfyj0IonYQ)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
 
