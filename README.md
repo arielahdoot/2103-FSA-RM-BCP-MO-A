@@ -175,15 +175,14 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 
 ## **07 Arrays II**
 
-
 **[Lecture Slides](07-arrays-ii/07.Arrays-II.pdf)**
 
-<!-- **[Live Lecture](https://youtu.be/oGj5EZMWA8E)**
-**[Review](https://youtu.be/Pur1E67XKaU)**
+**[Live Lecture](https://youtu.be/f66IDYWItFo)**
+<!-- **[Review](https://youtu.be/Pur1E67XKaU)** -->
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text) -->
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
 
 <!--
 ## **08 Sudoku Validator**
