@@ -116,7 +116,7 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 
 ## **04 Caesar Cypher**
 
-**[Live Lecture (Ariel)](https://youtu.be/tSrQhjOxDuM)**
+**[Live Lecture (Ariel)](https://youtu.be/x-QNu7aMUR0)**
 
 **[Live Lecture (Harry)](https://youtu.be/tSrQhjOxDuM)**
 
