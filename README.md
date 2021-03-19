@@ -12,9 +12,9 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 4. [Caesar Cypher](#04-caesar-cypher)
 5. [Scope](#05-scope)
 6. [Arrays I](#06-arrays-I)
-<!-- 
 7. [Arrays II](#07-arrays-ii)
 8. [Sudoku Validator](#08-sudoku-validator)
+<!--
 9. [Objects](#09-objects)
 10. [Recursion I](#10-recursion-i)
 11. [Recursion II](#11-recursion-ii)
@@ -92,7 +92,7 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 4. [Continue Keyword](02-loops-and-debugging/D-continue.js)
 5. [Break Keyword](02-loops-and-debugging/E-break.js)
 
- ## **03 Coercion and Truthiness**
+## **03 Coercion and Truthiness**
 
 [Lecture Slides](03-type-coercion-and-truthiness/03-Coercion-and-Truthiness.pdf)
 
@@ -116,11 +116,22 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 
 ## **04 Caesar Cypher**
 
-**[Live Lecture](https://youtu.be/x-QNu7aMUR0)**
+**[Live Lecture (Ariel)](https://youtu.be/tSrQhjOxDuM)**
+
+**[Live Lecture (Harry)](https://youtu.be/tSrQhjOxDuM)**
+
+**[Live Review](https://youtu.be/wubQ1zoPOck)**
+
+[Lecture Slides](04-reacto/04.BCP-REACTO.pdf)
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
+
+### Notes
+
+* [Our Caesar Cypher](https://codepen.io/habst/pen/yLVGmxo?editors=0010)
+* [Our vowelCount](https://repl.it/@hpr/WoozyParallelComputer#index.js)
 
 ## **05 Scope**
 
@@ -172,7 +183,6 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 13. [Array.includes()](06-arrays-I/M-array-includes.js)
 14. [Array.reverse()](06-arrays-I/N-array-reverse.js)
 
-
 ## **07 Arrays II**
 
 **[Lecture Slides](07-arrays-ii/07.Arrays-II.pdf)**
@@ -184,14 +194,23 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
 
-<!--
 ## **08 Sudoku Validator**
 
-**[Live Lecture](https://youtu.be/vFqApC0TPnM)**
+**[Live Lecture](https://youtu.be/LtkzMMOMtBM)**
+
+**[Review](https://youtu.be/kYe2oNQmO04)**
+
+[Lecture Slides](08-sudoku-validator/08.BCP-Sudoku.pdf)
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb1/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb2/text)
+
+### Notes
+
+[Our Solutions](https://codepen.io/habst/pen/bGBPRYq?editors=0010)
+
+<!--
 
 ## **09 Objects**
 
