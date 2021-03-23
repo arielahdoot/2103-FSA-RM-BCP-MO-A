@@ -210,11 +210,9 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 
 [Our Solutions](https://codepen.io/habst/pen/bGBPRYq?editors=0010)
 
-<!--
-
 ## **09 Objects**
 
-**[Live Lecture](https://youtu.be/aLTP7hnIYFg)**
+**[Live Lecture](https://youtu.be/PgEoXb-LgFM)**
 **[Live Solutions](https://youtu.be/Cu9EIQcc8d4)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
@@ -241,15 +239,16 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 
 **[Live Lecture](https://youtu.be/pZ5Sm2yUfzo)**
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
+<!-- [Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text) -->
 
 #### Notes
 
 1. [What Are Methods](09-objects/L-whatisamethod.js)
 2. [Creating Methods](09-objects/M-createmethods.js)
 3. [this](09-objects/N-this.js)
+4. [Workshop Questions & Solutions](09-objects/Q-object-methods-workshop-and-solutions-links.md)
 
 ## **Pass By Value, Pass By Reference - Optional Advanced Lecture 1**
 
@@ -263,6 +262,7 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 **[Live Lecture](https://youtu.be/Bj8MJ8q_Hd0)**
 **[Solutions](https://youtu.be/W4Cv02x3V5Q)**
 
+<!--
 ## **10 Recursion I**
 
 **[Live Lecture](https://youtu.be/tC3TfaZALO0)**
