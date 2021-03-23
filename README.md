@@ -223,17 +223,19 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 
 [Full Notes](09-objects)
 
-0. [Code Snippets](09-objects/A-code-snippets.js)
-1. [What is an Object](09-objects/B-what-is-an-object.js)
-2. [Create And Access](09-objects/C-create-and-access.js)
-3. [New Key-Value Pairs](09-objects/D-new-key-value-pairs.js)
-4. [Delete Key-Value Pairs](09-objects/E-delete-key-value-pairs.js)
-5. [In Operator](09-objects/F-in-operator.js)
-6. [For In Loop](09-objects/G-for-in-loop.js)
-7. [Object Methods](09-objects/H-object-methods.js)
-8. [Nested Arrays](09-objects/I-nested-arrays.js)
-9. [Nested Objects](09-objects/J-nested-object.js)
-10. [Animal Noises Review](09-objects/K-animal-noises-review.js)
+1. [What is an Object](09-objects/A-what-is-obj.js)
+2. [Why are Objects Useful](09-objects/B-why-useful.js)
+3. [Typeof an Object](09-objects/C-typeof-obj.js)
+4. [Creating Objects](09-objects/D-create-obj.js)
+5. [Access Object Properties](09-objects/E-obj-access.js)
+6. [Adding Object Properties](09-objects/F-add-to-obj.js)
+7. [Changing Object Properties](09-objects/G-change-val.js)
+8. [Deleting Object Properties](09-objects/H-delete-kv.js)
+9. [In Operator](09-objects/I-in-operator.js)
+10. [For In Loop](09-objects/J-for-in-loop.js)
+11. [Object Methods](09-objects/K-object-keys.js)
+12. [Nested Arrays](09-objects/L-nested-arr.js)
+13. [Nested Objects](09-objects/M-nested-obj.js)
 
 ### **Object Methods**
 
@@ -245,9 +247,9 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 
 #### Notes
 
-1. [What Are Methods](09-objects/L-whatisamethod.js)
-2. [Creating Methods](09-objects/M-createmethods.js)
-3. [this](09-objects/N-this.js)
+1. [What Are Methods](09-objects/N-whatisamethod.js)
+2. [Creating Methods](09-objects/O-createmethods.js)
+3. [this](09-objects/P-this.js)
 4. [Workshop Questions & Solutions](09-objects/Q-object-methods-workshop-and-solutions-links.md)
 
 ## **Pass By Value, Pass By Reference - Optional Advanced Lecture 1**
