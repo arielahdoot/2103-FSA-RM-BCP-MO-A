@@ -3,6 +3,7 @@ Solutions to the Object Methods problems:
 Workshop: https://codepen.io/FullstackAcademy/pen/rdeWbq
 Solutions video: https://youtu.be/YhYtogambGk
 Solution:
+```
 let me = {
   name: 'Karen',
   getGreeting: function() {
@@ -17,22 +18,26 @@ let altMe = {
     return `Hi, my name is ${this.name}.`;
   }
 }
+```
 
 2. Say Your Name
 Workshop: https://codepen.io/FullstackAcademy/pen/vRGyqN
 Solutions video: https://youtu.be/BikrzQ259H0
 Solution:
+```
 let me2 = {
   name: 'Tarana',
   getGreeting: function(friend) {
     return 'Hi ' + friend.name + ', my name is ' + this.name + '.';
   }
 }
+```
 
 3. Call Them All
 Workshop: https://codepen.io/FullstackAcademy/pen/mxPRyE
 Solutions video: https://youtu.be/nPJjSP8gxUM
 Solution:
+```
 function callThemAll(object, argument) {
 
   // create an array to store the returned values from the methods
@@ -55,11 +60,13 @@ function callThemAll(object, argument) {
 
   return methodResults;
 }
+```
 
 4. Tic Tac Toe
 Workshop: https://codepen.io/FullstackAcademy/pen/ZxWLLV
 Solutions video: https://youtu.be/gIfNQPEeLfI
 Solution:
+```
 let ticTacToe = {
   board: [
     [null, null, null],
@@ -88,11 +95,13 @@ let ticTacToe = {
     return this.board;
   }
 }
+```
 
 5. Taco Cat Inc.
 Workshop: https://codepen.io/FullstackAcademy/pen/EEKZZB
 Solutions video: https://youtu.be/jB_rvfLjr2M
 Solution:
+```
 tacoCatInc.currentInventory = function() {
   let total = 0;
 
@@ -141,3 +150,4 @@ tacoCatInc.sale = function(order) {
 
   return finalPrice;
 }
+```
