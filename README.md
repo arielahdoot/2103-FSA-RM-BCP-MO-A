@@ -213,7 +213,6 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 ## **09 Objects**
 
 **[Live Lecture](https://youtu.be/PgEoXb-LgFM)**
-**[Live Solutions](https://youtu.be/Cu9EIQcc8d4)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
 
@@ -254,15 +253,13 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 
 ## **Pass By Value, Pass By Reference - Optional Advanced Lecture 1**
 
-**[Live Lecture](https://youtu.be/mCdJI9ItTZw)**
-**[Live Solutions](https://youtu.be/Cc0-vymjkPo)**
+**[Live Lecture](https://youtu.be/Casw_S_uOoE)**
 
 ## **Higher Order Functions I - Optional Advanced Lecture 2**
-**[Live Lecture](https://youtu.be/Q0d6Ti3Zbwo)**
+**[Live Lecture](https://youtu.be/FiEY_pb_cR0)**
 
 ## **Higher Order Functions II - Optional Advanced Lecture 3**
-**[Live Lecture](https://youtu.be/Bj8MJ8q_Hd0)**
-**[Solutions](https://youtu.be/W4Cv02x3V5Q)**
+**[Live Lecture](https://youtu.be/pAtDHJs5bis)**
 
 <!--
 ## **10 Recursion I**
