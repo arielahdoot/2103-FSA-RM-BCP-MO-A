@@ -1,7 +1,9 @@
 Solutions to the Object Methods problems:
 1. Say My Name:
 Workshop: https://codepen.io/FullstackAcademy/pen/rdeWbq
+
 Solutions video: https://youtu.be/YhYtogambGk
+
 Solution:
 ```
 let me = {
@@ -22,7 +24,9 @@ let altMe = {
 
 2. Say Your Name
 Workshop: https://codepen.io/FullstackAcademy/pen/vRGyqN
+
 Solutions video: https://youtu.be/BikrzQ259H0
+
 Solution:
 ```
 let me2 = {
@@ -35,7 +39,9 @@ let me2 = {
 
 3. Call Them All
 Workshop: https://codepen.io/FullstackAcademy/pen/mxPRyE
+
 Solutions video: https://youtu.be/nPJjSP8gxUM
+
 Solution:
 ```
 function callThemAll(object, argument) {
@@ -64,7 +70,9 @@ function callThemAll(object, argument) {
 
 4. Tic Tac Toe
 Workshop: https://codepen.io/FullstackAcademy/pen/ZxWLLV
+
 Solutions video: https://youtu.be/gIfNQPEeLfI
+
 Solution:
 ```
 let ticTacToe = {
