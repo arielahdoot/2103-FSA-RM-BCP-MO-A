@@ -107,7 +107,9 @@ let ticTacToe = {
 
 5. Taco Cat Inc.
 Workshop: https://codepen.io/FullstackAcademy/pen/EEKZZB
+
 Solutions video: https://youtu.be/jB_rvfLjr2M
+
 Solution:
 ```
 tacoCatInc.currentInventory = function() {
