@@ -280,15 +280,18 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 5. [Iterables](10-recursion-i/E-iterables.js)
 6. [Hints](10-recursion-i/F-hints.js)
 
-<!--
+
 ## **11 Recursion II**
 
-**[Live Lecture](https://youtu.be/23UzIpHLM2Q)**
+[Lecture Slides](11-recursion-ii/11-Recursion-II.pdf)
+
+<!-- **[Live Lecture](https://youtu.be/23UzIpHLM2Q)** -->
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
 
-[Solutions](https://codepen.io/FullstackAcademy/pen/dmMOEy?editors=0010)
+<!-- [Solutions](https://codepen.io/FullstackAcademy/pen/dmMOEy?editors=0010) -->
 
+<!--
 ### Notes
 
 [Full Notes](11-recursion-ii)
