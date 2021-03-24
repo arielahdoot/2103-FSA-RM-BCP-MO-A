@@ -15,8 +15,8 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 7. [Arrays II](#07-arrays-ii)
 8. [Sudoku Validator](#08-sudoku-validator)
 9. [Objects](#09-objects)
-<!--
 10. [Recursion I](#10-recursion-i)
+<!--
 11. [Recursion II](#11-recursion-ii)
 12. [Next Steps](#12-next-steps) -->
 
@@ -261,10 +261,9 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 ## **Higher Order Functions II - Optional Advanced Lecture 3**
 **[Live Lecture](https://youtu.be/pAtDHJs5bis)**
 
-<!--
 ## **10 Recursion I**
 
-**[Live Lecture](https://youtu.be/tC3TfaZALO0)**
+**[Live Lecture](https://youtu.be/Y7g_OUpRVDE)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634e/text)
 
@@ -281,6 +280,7 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 5. [Iterables](10-recursion-i/E-iterables.js)
 6. [Hints](10-recursion-i/F-hints.js)
 
+<!--
 ## **11 Recursion II**
 
 **[Live Lecture](https://youtu.be/23UzIpHLM2Q)**
