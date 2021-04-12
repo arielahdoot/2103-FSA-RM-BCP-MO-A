@@ -285,7 +285,9 @@ Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. I
 
 [Lecture Slides](11-recursion-ii/11-Recursion-II.pdf)
 
-<!-- **[Live Lecture](https://youtu.be/23UzIpHLM2Q)** -->
+**[Solutions Video Part I](https://youtu.be/f_bqQlTNUgE)**
+
+**[Solutions Video Part II](https://youtu.be/K0EfF8RphX4)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
 
