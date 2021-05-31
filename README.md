@@ -1,8 +1,8 @@
-# 2103-FSA-NY-BCP-MO
+# 2103-FSA-RM-BCP-MO-A
 
 Hello! This is where Ariel, Noor, and Harry will put all the material for BCP. If any of the links don't work don't hesitate to slack us and let us know.
 
-[![Run on Repl.it](https://repl.it/badge/github/arielahdoot/2103-FSA-NY-BCP-MO)](https://repl.it/github/arielahdoot/2103-FSA-NY-BCP-MO)
+[![Run on Repl.it](https://repl.it/badge/github/arielahdoot/2103-FSA-RM-BCP-MO-A)](https://repl.it/github/arielahdoot/2103-FSA-RM-BCP-MO-A)
 
 ## Table of Contents
 
